@@ -1,0 +1,15 @@
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\bin\Debug\net6.0\HomeworkFirst.exe
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\bin\Debug\net6.0\HomeworkFirst.deps.json
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\bin\Debug\net6.0\HomeworkFirst.runtimeconfig.json
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\bin\Debug\net6.0\HomeworkFirst.dll
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\bin\Debug\net6.0\ref\HomeworkFirst.dll
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\bin\Debug\net6.0\HomeworkFirst.pdb
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\HomeworkFirst.csproj.AssemblyReference.cache
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\HomeworkFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\HomeworkFirst.AssemblyInfoInputs.cache
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\HomeworkFirst.AssemblyInfo.cs
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\HomeworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\HomeworkFirst.dll
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\ref\HomeworkFirst.dll
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\HomeworkFirst.pdb
+C:\Users\Ayberk Sevgi\RiderProjects\HomeworkFirst\HomeworkFirst\obj\Debug\net6.0\HomeworkFirst.genruntimeconfig.cache
